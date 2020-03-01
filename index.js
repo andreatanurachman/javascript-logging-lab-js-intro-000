@@ -1,2 +1,2 @@
 console.error("HALP!")
-console.wanr("better fix this!")
+console.warn("better fix this!")
